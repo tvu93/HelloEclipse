@@ -3,7 +3,7 @@ public class HelloAPpp {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello Tvu");
+		System.out.println("Hello Trang Vu");
 	}
 
 }
